@@ -1,0 +1,3 @@
+,overall_acc,kappa,canopy_precision,canopy_recall,canopy_F1,canopy_IoU,n_test_pixels
+Rule-based mask,0.933,0.846,0.893,0.897,0.895,0.81,3570.0
+Random Forest,0.986,0.968,0.977,0.98,0.978,0.958,3570.0

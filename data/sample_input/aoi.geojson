@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mangrove stand, Tubli Bay, Bahrain (hand-drawn AOI)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.5879,
+              26.145461
+            ],
+            [
+              50.5879,
+              26.155188
+            ],
+            [
+              50.59895,
+              26.155188
+            ],
+            [
+              50.59895,
+              26.145461
+            ],
+            [
+              50.5879,
+              26.145461
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

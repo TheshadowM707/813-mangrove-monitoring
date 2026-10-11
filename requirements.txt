@@ -1,0 +1,9 @@
+earthengine-api==1.7.47
+numpy==2.5.3
+pandas==3.0.6
+matplotlib==3.11.2
+requests==2.34.2
+ipython==9.17.1
+jupyterlab==4.6.4
+ipykernel==7.4.0
+geemap==0.38.9
